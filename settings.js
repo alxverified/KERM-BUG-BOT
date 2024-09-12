@@ -11,23 +11,23 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "237656520674"
-global.ownername = "KgTech👽"
-global.ytname = "YT: Kermhacktools"
-global.socialm = "GitHub: Kgtech-cmt"
-global.location = "India, UP, rampur"
+global.ownernomer = "5492643196870"
+global.ownername = "Alexitoo👽"
+global.ytname = "WhatsApp | +5492643196870"
+global.socialm = "GitHub: alexxverified"
+global.location = "Argentina, 🏆, San Juan"
 
-global.ownernumber = '237656520674'  //creator number
-global.ownername = 'KgTech👽' //owner name
-global.botname = 'KERM-BUG-BOT' //name of the bot
+global.ownernumber = '5492643196870'  //creator number
+global.ownername = 'Alexito 🏆' //owner name
+global.botname = 'MESSI-BUG-BOT' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = '🦄KgTech\n\nContact: +237656520674'
+global.author = '🦄Alexito\n\nContact: +5492643196870'
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "Kerm Bug Bot Inc."
+global.wm = "Messi Bug Bot Inc."
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029Vafn6hc7DAX3fzsKtn45'
